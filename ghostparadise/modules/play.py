@@ -38,25 +38,25 @@ from pyrogram.types import Message
 from Python_ARQ import ARQ
 from youtube_search import YoutubeSearch
 
-from ShadowMusic.config import ARQ_API_KEY
-from ShadowMusic.config import BOT_NAME as bn
-from ShadowMusic.config import DURATION_LIMIT
-from ShadowMusic.config import UPDATES_CHANNEL as updateschannel
-from ShadowMusic.config import que
-from ShadowMusic.function.admins import admins as a
-from ShadowMusic.helpers.admins import get_administrators
-from ShadowMusic.helpers.channelmusic import get_chat_id
-from ShadowMusic.helpers.errors import DurationLimitError
-from ShadowMusic.helpers.decorators import errors
-from ShadowMusic.helpers.decorators import authorized_users_only
-from ShadowMusic.helpers.filters import command
-from ShadowMusic.helpers.filters import other_filters
-from ShadowMusic.helpers.gets import get_file_name
-from ShadowMusic.services.callsmusic import callsmusic
-from ShadowMusic.services.callsmusic import client as USER
-from ShadowMusic.services.converter.converter import convert
-from ShadowMusic.services.downloaders import youtube
-from ShadowMusic.services.queues import queues
+from ghostparadise.config import ARQ_API_KEY
+from ghostparadise.config import BOT_NAME as bn
+from ghostparadise.config import DURATION_LIMIT
+from ghostparadise.config import UPDATES_CHANNEL as updateschannel
+from ghostparadise.config import que
+from ghostparadise.function.admins import admins as a
+from ghostparadise.helpers.admins import get_administrators
+from ghostparadise.helpers.channelmusic import get_chat_id
+from ghostparadise.helpers.errors import DurationLimitError
+from ghostparadise.helpers.decorators import errors
+from ghostparadise.helpers.decorators import authorized_users_only
+from ghostparadise.helpers.filters import command
+from ghostparadise.helpers.filters import other_filters
+from ghostparadise.helpers.gets import get_file_name
+from ghostparadise.services.callsmusic import callsmusic
+from ghostparadise.services.callsmusic import client as USER
+from ghostparadise.services.converter.converter import convert
+from ghostparadise.services.downloaders import youtube
+from ghostparadise.services.queues import queues
 
 aiohttpsession = aiohttp.ClientSession()
 chat_id = None
