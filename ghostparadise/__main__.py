@@ -35,7 +35,7 @@ bot = Bot(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="GhostParadise.modules"),
+    plugins=dict(root="GhostMusic.modules"),
 )
 
 bot.start()
