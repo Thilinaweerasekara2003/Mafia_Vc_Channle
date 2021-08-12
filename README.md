@@ -112,6 +112,6 @@ Don't edit this part
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Shadow Music won't exist. 
-Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @Mr_Shadow_robot user
+Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @Ghosthelper1 user
 
 ### [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
