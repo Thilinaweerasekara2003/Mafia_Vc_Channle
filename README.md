@@ -114,4 +114,17 @@ Don't edit this part
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Shadow Music won't exist. 
 Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @Ghosthelper1 user
 
+#### Contribtors
+- [Vihara Senindu](https://github.com/Vihara2): Owner
+- [InukaASiTH](https://github.com/InukaAsith): Dev
+- [Prabhasha](https://github.com/Prabhasha-p): Dev
+- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
+- [Rojserbest](http://github.com/rojserbest): Dev
+- [Wrench](https://github.com/EverythingSuckz/): Dev
+- [QueenArzoo](https://github.com/QueenArzoo): Dev
+- [Hamker Cat](https://github.com/thehamkercat/)
+- [MARSHALX](https://github.com/MarshalX): TgCalls
+
+
+
 ### [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
