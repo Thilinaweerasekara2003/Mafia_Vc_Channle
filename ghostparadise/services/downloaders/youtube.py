@@ -20,8 +20,8 @@ from os import path
 
 from youtube_dl import YoutubeDL
 
-from ShadowMusic.config import DURATION_LIMIT
-from ShadowMusic.helpers.errors import DurationLimitError
+from ghostparadise.config import DURATION_LIMIT
+from ghostparadise.helpers.errors import DurationLimitError
 
 ydl_opts = {
     "format": "bestaudio[ext=m4a]",
