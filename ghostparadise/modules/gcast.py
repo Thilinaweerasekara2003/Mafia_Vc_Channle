@@ -24,8 +24,8 @@ from pyrogram.types import Chat
 from pyrogram.types import Message
 from pyrogram.errors import UserAlreadyParticipant
 
-from ShadowMusic.services.callsmusic.callsmusic import client as USER
-from ShadowMusic.config import SUDO_USERS
+from ghostparadise.services.callsmusic.callsmusic import client as USER
+from ghostparadise.config import SUDO_USERS
 
 @Client.on_message(filters.command(["broadcast"]))
 async def broadcast(_, message: Message):
