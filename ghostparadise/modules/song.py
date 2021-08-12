@@ -35,8 +35,8 @@ from pyrogram.types import Message
 from youtube_search import YoutubeSearch
 from youtubesearchpython import SearchVideos
 
-from ShadowMusic.config import DURATION_LIMIT
-from ShadowMusic.modules.play import arq
+from ghostparadise.config import DURATION_LIMIT
+from ghostparadise.modules.play import arq
 
 
 @Client.on_message(filters.command("song") & ~filters.channel)
