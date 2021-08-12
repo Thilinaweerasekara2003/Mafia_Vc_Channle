@@ -19,11 +19,11 @@
 import requests
 from pyrogram import Client as Bot
 
-from GhostParadise.config import API_HASH
-from GhostParadise.config import API_ID
-from GhostParadise.config import BG_IMAGE
-from GhostParadise.config import BOT_TOKEN
-from GhostParadise.services.callsmusic import run
+from ghostparadise.config import API_HASH
+from ghostparadise.config import API_ID
+from ghostparadise.config import BG_IMAGE
+from ghostparadise.config import BOT_TOKEN
+from ghostparadise.services.callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")
