@@ -18,7 +18,7 @@
 import asyncio
 from os import path
 
-from ShadowMusic.helpers.errors import FFmpegReturnCodeError
+from ghostparadise.helpers.errors import FFmpegReturnCodeError
 
 
 async def convert(file_path: str) -> str:
