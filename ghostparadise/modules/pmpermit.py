@@ -16,11 +16,11 @@
 
 from pyrogram import Client
 import asyncio
-from ShadowMusic.config import SUDO_USERS
-from ShadowMusic.config import PMPERMIT
+from ghostparadise.config import SUDO_USERS
+from ghostparadise.config import PMPERMIT
 from pyrogram import filters
 from pyrogram.types import Message
-from ShadowMusic.services.callsmusic import client as USER
+from ghostparadise.services.callsmusic import client as USER
 
 PMSET =True
 pchats = []
