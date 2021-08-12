@@ -1,5 +1,6 @@
+  
 # GhostParadise (Telegram bot project)
-# Copyright (C) 2021 Vihara Senindu & Roj Serbest
+# Copyright (C) 2021 ViharaSenindu & Rojserbest
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -18,11 +19,11 @@
 import requests
 from pyrogram import Client as Bot
 
-from GhostParadise.config import API_HASH
-from GhostParadise.config import API_ID
-from GhostParadise.config import BG_IMAGE
-from GhostParadise.config import BOT_TOKEN
-from GhostParadise.services.callsmusic import run
+from ShadowMusic.config import API_HASH
+from ShadowMusic.config import API_ID
+from ShadowMusic.config import BG_IMAGE
+from ShadowMusic.config import BOT_TOKEN
+from ShadowMusic.services.callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")
