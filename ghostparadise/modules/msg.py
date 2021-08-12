@@ -15,11 +15,11 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import os
-from ghostpradise.config import SOURCE_CODE
-from ghostpradise.config import ASSISTANT_NAME
-from ghostpradise.config import PROJECT_NAME
-from ghostpradise.config import SUPPORT_GROUP
-from ghostpradise.config import UPDATES_CHANNEL
+from ghostparadise.config import SOURCE_CODE
+from ghostparadise.config import ASSISTANT_NAME
+from ghostparadise.config import PROJECT_NAME
+from ghostparadise.config import SUPPORT_GROUP
+from ghostparadise.config import UPDATES_CHANNEL
 class Messages():
       START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
       HELP_MSG = [
