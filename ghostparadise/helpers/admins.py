@@ -20,8 +20,8 @@ from typing import List
 
 from pyrogram.types import Chat
 
-from ShadowMusic.function.admins import get as gett
-from ShadowMusic.function.admins import set
+from ghostparadise.function.admins import get as gett
+from ghostparadise.function.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[int]:
