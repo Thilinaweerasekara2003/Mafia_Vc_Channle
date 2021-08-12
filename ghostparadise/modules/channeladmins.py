@@ -20,15 +20,15 @@ from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import Message
 
-from ShadowMusic.config import que
-from ShadowMusic.function.admins import set
-from ShadowMusic.helpers.channelmusic import get_chat_id
-from ShadowMusic.helpers.decorators import authorized_users_only
-from ShadowMusic.helpers.decorators import errors
-from ShadowMusic.helpers.filters import command 
-from ShadowMusic.helpers.filters import other_filters
-from ShadowMusic.services.callsmusic import callsmusic
-from ShadowMusic.services.queues import queues
+from ghostparadise.config import que
+from ghostparadise.function.admins import set
+from ghostparadise.helpers.channelmusic import get_chat_id
+from ghostparadise.helpers.decorators import authorized_users_only
+from ghostparadise.helpers.decorators import errors
+from ghostparadise.helpers.filters import command 
+from ghostparadise.helpers.filters import other_filters
+from ghostparadise.services.callsmusic import callsmusic
+from ghostparadise.services.queues import queues
 
 
 @Client.on_message(filters.command(["channelpause","cpause"]) & filters.group & ~filters.edited)
