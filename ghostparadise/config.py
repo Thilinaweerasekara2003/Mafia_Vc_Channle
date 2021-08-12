@@ -1,4 +1,4 @@
-# Ghost Paradise - Telegram bot project
+# ghost paradise - Telegram bot project
 # Copyright (C) 2021 Roj Serbest
 # Copyright (C) 2021 Vihara Senindu
 # This program is free software: you can redistribute it and/or modify
