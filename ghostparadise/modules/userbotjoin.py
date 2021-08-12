@@ -19,10 +19,10 @@ from pyrogram import Client
 from pyrogram import filters
 from pyrogram.errors import UserAlreadyParticipant
 import asyncio
-from ghostpradise.helpers.decorators import authorized_users_only
-from ghostpradise.helpers.decorators import errors
-from ghostpradise.services.callsmusic import client as USER
-from ghostpradise.config import SUDO_USERS
+from ghostparadise.helpers.decorators import authorized_users_only
+from ghostparadise.helpers.decorators import errors
+from ghostparadise.services.callsmusic import client as USER
+from ghostparadise.config import SUDO_USERS
 
 @Client.on_message(filters.command(["userbotjoin"]) & ~filters.private & ~filters.bot)
 @authorized_users_only
