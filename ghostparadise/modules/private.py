@@ -15,18 +15,18 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import logging
-from ShadowMusic.modules.msg import Messages as tr
+from ghostparadise.modules.msg import Messages as tr
 from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
 from pyrogram.types import Message
-from ShadowMusic.config import SOURCE_CODE
-from ShadowMusic.config import ASSISTANT_NAME
-from ShadowMusic.config import PROJECT_NAME
-from ShadowMusic.config import SUPPORT_GROUP
-from ShadowMusic.config import UPDATES_CHANNEL
-from ShadowMusic.config import BOT_USERNAME
+from ghostparadise.config import SOURCE_CODE
+from ghostparadise.config import ASSISTANT_NAME
+from ghostparadise.config import PROJECT_NAME
+from ghostparadise.config import SUPPORT_GROUP
+from ghostparadise.config import UPDATES_CHANNEL
+from ghostparadise.config import BOT_USERNAME
 logging.basicConfig(level=logging.INFO)
 
 @Client.on_message(filters.private & filters.incoming & filters.command(['start']))
