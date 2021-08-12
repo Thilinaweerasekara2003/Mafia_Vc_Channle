@@ -118,11 +118,15 @@ Shadow Music is a modified version of [Callsmusic](https://github.com/callsmusic
 - [Vihara Senindu](https://github.com/Vihara2): Owner
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Prabhasha](https://github.com/Prabhasha-p): Dev
+- [Damantha](https://github.com/Damantha126): Dev
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev
 - [Rojserbest](http://github.com/rojserbest): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
 - [QueenArzoo](https://github.com/QueenArzoo): Dev
+- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
 - [Hamker Cat](https://github.com/thehamkercat/)
+- [Anjana-Ma](https://github.com/Anjana-Ma): 
+- [ImJanindu](https://github.com/ImJanindu): 
 - [MARSHALX](https://github.com/MarshalX): TgCalls
 
 
