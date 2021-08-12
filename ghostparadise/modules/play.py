@@ -499,7 +499,7 @@ async def play(_, message: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nor manually add [assistant](https://t.me/Shadow_Helper) to your Group and try again</b>",
+                        "\n\nor manually add [assistant](https://t.me/Ghosthelper1) to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -895,7 +895,7 @@ async def ytplay(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="▶️ <b>Playing</b> here the song requested by {} via Shadow Music 😎".format(message.from_user.mention()),
+            caption="▶️ <b>Playing</b> here the song requested by {} via ghost paradise 😎".format(message.from_user.mention()),
         )
         os.remove("final.png")
         return await lel.delete()
@@ -1049,7 +1049,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Shadow Helper"
+        user.first_name = "Ghost Helper"
     usar = user
     wew = usar.id
     try:
@@ -1086,7 +1086,7 @@ async def jiosaavn(client: Client, message_: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add @Shadow_Helper to your Group and try again</b>",
+                        "\n\nOr manually add @Ghosthelper1 to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
