@@ -125,7 +125,6 @@ Ghost Music is a modified version of [Callsmusic](https://github.com/callsmusic/
 - [QueenArzoo](https://github.com/QueenArzoo): Dev
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
 - [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
 - [ImJanindu](https://github.com/ImJanindu): 
 - [MARSHALX](https://github.com/MarshalX): TgCalls
 
