@@ -1,11 +1,11 @@
-<h1 align="centre">Ghost paradise</h1>
+<h1 align="centre">★ 🅖🅐🅝🅖 🅞🅵 🅜🅐🅵🅘🅐 ™ 🇱🇰 ★ </h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@Ghosthelper1](https://t.me/Ghosthelper1)
+#### POWERED BY [Thilina Weerasekara ](https://github.com/MarshalX/tgcalls)
+### Available on telegram as [Gang Of Mafia ](https://t.me/gangofmafiatm)
 
 <p align="center">
-  <img src="https://telegra.ph/file/3312ebe2615df8b5906d4.jpg">
+  <img src="https://telegra.ph/file/3a14166d6d20dd43bdec5.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
