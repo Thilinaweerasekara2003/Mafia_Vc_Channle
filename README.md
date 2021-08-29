@@ -1,7 +1,7 @@
 <h1 align="centre">★ 🅖🅐🅝🅖 🅞🅵 🅜🅐🅵🅘🅐 ™ 🇱🇰 ★ </h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [Thilina Weerasekara ](https://github.com/MarshalX/tgcalls)
+#### POWERED BY [Thilina Weerasekara ](https://github.com/Thilinaweerasekara2003/Mafia_Vc_Channle)
 ### Available on telegram as [Gang Of Mafia ](https://t.me/gangofmafiatm)
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vihara2/ghostparadise)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/Mafia_Vc_Channle)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -91,8 +91,8 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@Ghosthelper1](https://t.me/Ghosthelper1) as Channel admin with full perms
- 4. Add helper to channel ([@Ghosthelper1](https://t.me/Ghosthelper1))
+ 3. Add [@Gangofmafiamusic](https://t.me/Gangofmafiamusic) as Channel admin with full perms
+ 4. Add helper to channel ([@Ghosthelper1](https://t.me/Gangofmafiamusic))
  5. Simply send commands in your group.
 
 ### Commands for Sudo Users ⚔️
